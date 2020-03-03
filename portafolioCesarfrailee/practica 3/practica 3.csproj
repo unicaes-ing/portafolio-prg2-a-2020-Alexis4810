@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7DCAB1C2-7C0E-4F4D-865D-0D93B9946DFD}</ProjectGuid>
+    <ProjectGuid>{ADEDD757-DC95-4870-B3F3-14D8828A75C2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>practica1</RootNamespace>
-    <AssemblyName>practica1</AssemblyName>
+    <RootNamespace>practica_3</RootNamespace>
+    <AssemblyName>practica 3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
